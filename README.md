@@ -1,2 +1,0 @@
-brettgurman.github.io
-=====================
