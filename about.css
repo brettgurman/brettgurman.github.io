@@ -112,6 +112,8 @@ h1 {
         margin-right: inherit;
         margin-left: 50px;
         margin-bottom: 20px;
+        overflow-y:auto;
+        height: 350px;
 
 
 }
@@ -125,6 +127,8 @@ h1 {
 .contact_icon{
         height: 50px;
 }
+
+
 
 /* Mobile */
 @media screen and (max-width: 479) {
